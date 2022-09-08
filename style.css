@@ -1,0 +1,13 @@
+.uui{
+    margin-right: 23rem;
+}
+
+.icon{
+    margin-right: 5rem;
+}
+
+.mama{
+    background-image: url("/img/makan1.jpeg");
+    z-index: auto;
+    background-size:cover ;
+}
